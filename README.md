@@ -1,5 +1,7 @@
 # Universal Testing Machine (UTM) with Dual Stepper Motors, Load Cells, and Strain Gauge
 
+_Note: THis is a work in progress project and any feedback is much appreciated._
+
 This project involves creating a **Universal Testing Machine (UTM)** using two **NEMA 17 stepper motors**, **load cells**, a **strain gauge**, and an **Arduino Uno**. The system is capable of controlling stepper motors, logging strain and load data, and using limit switches for safety.
 
 ## Overview
