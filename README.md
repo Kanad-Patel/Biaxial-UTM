@@ -86,6 +86,5 @@ This project is open-source and licensed under the **MIT License**.
 ## Contributing
 Feel free to contribute to this project by submitting **pull requests** or **issues** on GitHub. Any suggestions for improvements are always welcome!
 
-## Contact
-For any questions or further information, please contact **[Your Name]** at **[Your Email]**.
+
 
